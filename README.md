@@ -27,15 +27,7 @@ A **C++ console application** that reads student grades from a file, calculates 
 
 ---
 
-## 📁 File Structure
-
--/grades-analyzer
--├── grades.txt # Input file containing student names and grades
--├── analysis.txt # Output file with full breakdown
--├── student_averages.txt # Output file with each student's average
--├── subject_averages.txt # Output file with subject averages
--└── main.cpp # Main C++ code
-
+ 
  
 ---
 
